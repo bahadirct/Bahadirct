@@ -15,10 +15,17 @@
 ### 🧑‍💻 About Me
 
 - 💼 Currently working as a Software Developer at **Atak Domain**
-- 🌐 Building **domain registration & registry integration** services: EPP protocol, domain lifecycle, DNS and SSL certificate workflows
-- 🏗️ Designing modular, multi-tenant backends with **.NET** and **ABP Framework**
-- 🖥️ Developing admin panels with **Vue 3**, **TypeScript** and **PrimeVue**
-- 🔎 Using **Elasticsearch** for logging & tracing, alongside **MongoDB** and relational databases
+- 🧩 Developing a **microservice-based domain registration platform** with **.NET** and **ABP Framework**, where domain, order and deposit/billing flows run as independent services
+- 🚪 Exposing services through an **API Gateway** as a single entry point for clients and admin panels
+- 📨 Implementing **asynchronous, event-driven communication** between services with **RabbitMQ**, alongside typed HTTP clients for synchronous calls
+- ⚡ Using **Redis** for distributed caching across services
+- 🐳 Running and deploying services in containers with **Docker**
+- 🚀 Building **CI/CD pipelines** with **GitHub Actions** for automated build and deployment of services
+- 🌐 Building **registry integration services**: EPP proxies for domain registries, domain lifecycle management, DNS and SSL certificate workflows
+- 🔎 Setting up **observability** with **Elasticsearch**: centralized request logs, HTTP traces and operation queues across services
+- ⏱️ Maintaining **background & scheduled jobs** for cross-service processes
+- 🏢 Designing **multi-tenant / reseller-based** architectures with per-group pricing
+- 🖥️ Developing admin panels with **Vue 3**, **TypeScript** and **PrimeVue** on top of these services
 - 📫 Reach me at **bahadircantopcu@gmail.com**
 
 ---
@@ -41,9 +48,9 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch" alt="Databases"/>
 </p>
 
-**Tools & Infra**
+**Messaging, Caching & Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,nginx" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,redis,docker,nginx,githubactions" alt="Infra"/>
 </p>
 
 ---
