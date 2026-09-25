@@ -1,34 +1,56 @@
-# Hi, I'm Bahadır Can Topçu 👋 
+<h1 align="center">Hi, I'm Bahadır Can Topçu 👋</h1>
+<h3 align="center">Software Developer · .NET & ABP Framework · Vue</h3>
 
-
-
-### Connect with me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bahadircantopcu" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:bahadircantopcu@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bahadircantopcu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bahadircantopcu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-### Languages and Tools:
+---
+
+### 🧑‍💻 About Me
+
+- 💼 Currently working as a Software Developer at **Atak Domain**
+- 🌐 Building **domain registration & registry integration** services: EPP protocol, domain lifecycle, DNS and SSL certificate workflows
+- 🏗️ Designing modular, multi-tenant backends with **.NET** and **ABP Framework**
+- 🖥️ Developing admin panels with **Vue 3**, **TypeScript** and **PrimeVue**
+- 🔎 Using **Elasticsearch** for logging & tracing, alongside **MongoDB** and relational databases
+- 📫 Reach me at **bahadircantopcu@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend**
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> 
-<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt="dotnet" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" width="50" height="50" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
-<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java" alt="Backend"/>
 </p>
-<br>
 
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,angular,ts,js,html,css,bootstrap" alt="Frontend"/>
+</p>
+
+**Databases & Search**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch" alt="Databases"/>
+</p>
+
+**Tools & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,nginx" alt="Tools"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bahadirct&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirct&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+</p>
